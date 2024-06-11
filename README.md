@@ -6,7 +6,10 @@
 
 <h3> IMPORTANT NOTES</h3>
 <pre>
-• It's recommended to flash rom with recommended recovery,Rom need at least one day to settle down,We are not responsible if your device lag after swift restore because lots of previous rom junk also restore while restoring.
+• It's recommended to flash rom with recommended recovery,
+  Rom need at least one day to settle down,We are not responsible
+  if your device lag after swift restore because lots of previous
+  rom junk also restore while restoring.
 </pre>
 <h3>ROM ASSETS AND MENTIONS</h3>
 <a href="https://t.me/RN11PakCommunity/28682"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/recovery_button.png"  /></a>
