@@ -10,6 +10,7 @@
   Rom need at least one day to settle down,We are not responsible
   if your device lag after swift restore because lots of previous
   rom junk also restore while restoring.
+  
 • Hey google can trigger the audio lag bug
 </pre>
 <h3>ROM ASSETS AND MENTIONS</h3>
