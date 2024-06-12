@@ -15,7 +15,7 @@
 </pre>
 <h3>ROM ASSETS AND MENTIONS</h3>
 <a href="https://telegra.ph/NextOS-Quantum-06-11"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/quantum/database/assets/post/changelog-button.png"  /></a>
-<a href="https://t.me/RN11PakCommunity/28682"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/recovery_button.png"  /></a>
+<a href="https://t.me/CloudfilesSC/424"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/recovery_button.png"  /></a>
 <a href="https://t.me/SSgroupRN11"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/button_screenshots.png"  /></a>
 <a href="https://t.me/CloudfilesSC/210"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/safety_button.png"  /></a>
 
