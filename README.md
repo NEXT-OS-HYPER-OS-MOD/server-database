@@ -1,6 +1,6 @@
 <div align="center" >
-  <img  src="https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/main/database/assets/post/banner.png"  />
-  <h3>NEXT OS QUANTUM</h3>
+  <img  src="https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/main/database/assets/post/bannr.png"  />
+  <h3>NEXT OS AURORA</h3>
 </div>
 <p align="center">BY NEXTOS TEAM</p>
 
@@ -10,8 +10,6 @@
   Rom need at least one day to settle down,We are not responsible
   if your device lag after swift restore because lots of previous
   rom junk also restore while restoring.
-  
-• Hey google can trigger the audio lag bug
 </pre>
 <h3>ROM ASSETS AND MENTIONS</h3>
 <a href="https://telegra.ph/NextOS-Quantum-06-11"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/quantum/database/assets/post/changelog-button.png"  /></a>
