@@ -1,6 +1,6 @@
 <div align="center" >
-  <img  src="https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/main/database/assets/post/banner.png"  />
-  <h3>NEXT OS QUANTUM</h3>
+  <img  src="https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/main/database/assets/post/bannr.png"  />
+  <h3>NEXT OS AURORA</h3>
 </div>
 <p align="center">BY NEXTOS TEAM</p>
 
