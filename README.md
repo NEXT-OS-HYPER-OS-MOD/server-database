@@ -1,36 +1,40 @@
 <div align="center" >
-  <img  src="https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/main/database/assets/post/bannr.png"  />
-  <h3>NEXT OS AURORA</h3>
+  <img src="https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/main/database/assets/post/banner.png"  />
+ 
 </div>
-<p align="center">BY NEXTOS TEAM</p>
 
-<h3> IMPORTANT NOTES</h3>
-<pre>
-• It's recommended to flash rom with recommended recovery,
-  Rom need at least one day to settle down,We are not responsible
-  if your device lag after swift restore because lots of previous
-  rom junk also restore while restoring.
-</pre>
-<h3>ROM ASSETS AND MENTIONS</h3>
-<a href="https://telegra.ph/NextOS-Quantum-06-11"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/quantum/database/assets/post/changelog-button.png"  /></a>
-<a href="https://t.me/CloudfilesSC/424"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/recovery_button.png"  /></a>
-<a href="https://t.me/SSgroupRN11"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/button_screenshots.png"  /></a>
-<a href="https://t.me/CloudfilesSC/210"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/safety_button.png"  /></a>
+<p>
+This is a MIUI/HyperOS Mod project designed to bring a sleek and minimalistic user interface, enhancing user experience with a clean UI management system. It incorporates a range of highly useful features that cater to both functionality and aesthetics. </p>
 
-<h3> FLASH STEPS</h3>
+<h3>
+📒 RELEASE CHANGELOGS
+</h3>
 <pre>
-• Wipe 3 (Dalvik , Data , Cache)
-• Flash Rom .
-• Flash Custom Recovery (Ramdisk).
-• Flash Magisk (Optional).
-• Format Data.
-• Reboot and get some tea.
+69 Oct 2024 - GRIFFIN EDITION -<a href="https://t.me/RedmiN11Pak"> CHANGELOG</a>
 </pre>
 
-<h3>COMMUNITY</h3>
+
+<h3>
+📱 SUPPORTED DEVICES
+</h3>
+<pre>
+🟢 Xiaomi Redmi Note 11 (spes/spesn)
+</pre>
+<pre>
+🟢 Xiaomi Redmi Note 9 & Pro & Max / Poco M2 (miatoll)
+</pre>
+<pre>
+🟢 Redmi K40 & POCO F3 & Mi 11X (alioth/aliothin)
+</pre>
+<pre>
+🟢 Xiaomi Redmi 10 & 10C & 10 Power (fog/rain/wind)
+</pre>
+
+<h3>🔗 TELEGRAM COMMUNITY LINKS</h3>
 
 <a href="https://t.me/RedmiN11Pak"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/button_update-channel.png"  /></a>
 <a href="https://t.me/RN11PakCommunity"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/button_support-group.png"  /></a>
+<a href="https://t.me/SSgroupRN11"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/button_screenshots.png"  /></a>
 
 
 <h3 align="center" >DISCLAIMER</h3>
