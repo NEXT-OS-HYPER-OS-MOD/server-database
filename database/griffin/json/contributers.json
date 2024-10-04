@@ -4,7 +4,7 @@
         "name": "CrDroid",
         "photo": "https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/main/database/griffin/asset/crdroid.jpg",
         "summery": "Lineage Based OpenSource Rom Project",
-        "link": "https://t.me/crDroidUpdates"
+        "link": "https://github.com/crdroidandroid"
       },
       {
         "name": "Mods Center",
@@ -13,17 +13,18 @@
         "link": "https://t.me/kashis_cringey_stuffs"
       },
       {
-        "name": "MMETMA Mods",
-        "photo": "https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/main/database/griffin/asset/mmetma.jpg",
-        "summery": "Mod Guide Channel by MMETMA",
-        "link": "https://t.me/MMETMAmods"
+        "name": "Kevin Miranda",
+        "photo": "https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/main/database/griffin/asset/kvin.jpg",
+        "summery": "Thanks for Partial Help",
+        "link": "https://t.me/KevinMirandaPasiche"
       },
       {
-        "name": "Miui | Hyper Mint",
-        "photo": "https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/main/database/griffin/asset/mint.jpg",
-        "summery": "HyperOS mod project named Mint",
-        "link": "https://t.me/project_mint"
+        "name": "Project Elixir",
+        "photo": "https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/main/database/griffin/asset/elixir.png",
+        "summery": "For UI Adaptation",
+        "link": "https://github.com/Project-Elixir"
       }
+
       
     ]
   }
