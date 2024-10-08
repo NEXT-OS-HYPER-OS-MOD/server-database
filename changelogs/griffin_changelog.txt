@@ -40,6 +40,7 @@ NEXTOS GRIFFIN EDITION - Changelog
     clean AOSP-inspired design, integrated 
     Lab features for advanced users, and a 
     streamlined, adaptive layout.
+    (NB: Custom HomePage Glitches in rare events)
 
 • Screenshot Mods: 
     Implemented a custom codename feature and 
@@ -51,6 +52,10 @@ NEXTOS GRIFFIN EDITION - Changelog
     Basic Integrity checks passed.
     • Added screenshot restrictions for 
     privacy and optimized performance.
+
+• Mod Apps:
+    • Launcher , Security , installer & AppVoult taken from MOD CENTER .
+    • Also Many Modded apps are included!
 
 
 
