@@ -1,21 +1,58 @@
 NEXTOS GRIFFIN EDITION - Changelog
 
-• StatusBar Enhancements: Revamped the status bar with an updated signature feature, improved network speed bar, and added new customization options for a more dynamic experience.
 
-• Advanced Quick Settings (QS): Enhanced QS interface with advanced background customization options and additional features for seamless control.
 
-• Notification Panel Overhaul: Integrated early notification access, a fully customizable clock, real-time weather information, and an advanced notification background for a clean and functional UI.
+• StatusBar Enhancements: 
+    Revamped the status bar with an updated 
+    signature feature, improved network speed bar, 
+    and added new customization options for a 
+    more dynamic experience.
 
-• Dynamic Island Customization: Added advanced customization support for Dynamic Island, along with universal notification support for all apps.
+• Advanced Quick Settings (QS): 
+    Enhanced QS interface with advanced background 
+    customization options and additional features
+    for seamless control.
 
-• List Item Animations: Introduced smooth, engaging animations for Gallery, Theme, Settings, and other system apps, adding a polished touch to interactions.
+• Notification Panel Mods:
+    Integrated early notification access, a 
+    fully customizable clock, real-time weather
+    information, and an advanced notification 
+    background for a clean and functional UI.
 
-• PowerMenu & VolumeBar: Revamped PowerMenu and added customization options for the volume window, offering greater control over user interactions.
+• Dynamic Island Customization: 
+    Added advanced customization support for 
+    Dynamic Island, along with universal 
+    notification support for all apps.
 
-• Settings UI: Enhanced the settings interface with a clean AOSP-inspired design, integrated Lab features for advanced users, and a streamlined, adaptive layout.
+• List Item Animations: 
+    Introduced smooth, engaging animations 
+    for Gallery, Theme, Settings, and other 
+    system apps, adding a polished touch to 
+    interactions.
 
-• Screenshot Enhancements: Implemented a custom codename feature and improved the screenshot capture method for enhanced performance and ease of use.
+• PowerMenu & VolumeBar: 
+    Advance PowerMenu and added customization
+    options for the volume window, offering 
+    greater control over user interactions.
+
+• Settings UI: 
+    Enhanced the settings interface with a 
+    clean AOSP-inspired design, integrated 
+    Lab features for advanced users, and a 
+    streamlined, adaptive layout.
+
+• Screenshot Mods: 
+Implemented a custom codename feature and 
+improved the screenshot capture method for 
+enhanced performance and ease of use.
 
 • Miscellaneous:
-    • Advanced spoofing capabilities and Basic Integrity checks passed.
-    • Added screenshot restrictions for privacy and optimized performance.
+    • Advanced spoofing capabilities and 
+    Basic Integrity checks passed.
+    • Added screenshot restrictions for 
+    privacy and optimized performance.
+
+
+
+And many more modifications have been made. 
+Enjoy the enhanced NEXTOS GRIFFIN experience!
