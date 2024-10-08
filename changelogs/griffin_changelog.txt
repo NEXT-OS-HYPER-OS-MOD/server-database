@@ -42,9 +42,9 @@ NEXTOS GRIFFIN EDITION - Changelog
     streamlined, adaptive layout.
 
 • Screenshot Mods: 
-Implemented a custom codename feature and 
-improved the screenshot capture method for 
-enhanced performance and ease of use.
+    Implemented a custom codename feature and 
+    improved the screenshot capture method for 
+    enhanced performance and ease of use.
 
 • Miscellaneous:
     • Advanced spoofing capabilities and 
