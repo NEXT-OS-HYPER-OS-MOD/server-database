@@ -9,10 +9,10 @@ This is a MIUI/HyperOS Mod project designed to bring a sleek and minimalistic us
 📝 RELEASE CHANGELOGS
 </h3>
 <pre>
-08 Oct 2024 - GRIFFIN EDITION - <a href="https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/refs/heads/main/changelogs/griffin_changelog.txt">CHANGELOG</a><br>
-SPES/SPESN    - <a href="https://t.me/RedmiN11Pak">RELEASE (Not Yet)</a>
-MIATOLL       - <a href="https://t.me/RedmiN11Pak">RELEASE (Not Yet)</a>
-ALIOTH/IN     - <a href="https://t.me/RedmiN11Pak">RELEASE</a>
+18 Oct 2024 - GRIFFIN EDITION - <a href="https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/refs/heads/main/changelogs/griffin_changelog.txt">CHANGELOG</a><br>
+SPES/SPESN    - <a href="https://t.me/RedmiN11Pak">RELEASED</a>
+MIATOLL       - <a href="https://t.me/RedmiN11Pak">RELEASED</a>
+ALIOTH/IN     - <a href="https://t.me/RedmiN11Pak">RELEASED</a>
 FOG/RAIN/WIND - <a href="https://t.me/RedmiN11Pak">RELEASE (Not Yet)</a>
 
 </pre>
