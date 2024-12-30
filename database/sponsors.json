@@ -76,7 +76,7 @@
       ,{
         "name": "Akshat",
         "photo": "https://raw.githubusercontent.com/NEXT-OS-HYPER-OS-MOD/server-database/refs/heads/main/database/assets/sponsors/no_photo.jpg",
-        "summery": "spes-n community",
+        "summery": "alioth-in community",
         "link": "https://t.me/AkshatTG"
       },{
         "name": "Prateek",
@@ -88,6 +88,11 @@
         "photo": "https://raw.githubusercontent.com/NEXT-OS-HYPER-OS-MOD/server-database/refs/heads/main/database/assets/sponsors/techman.jpg",
         "summery": "miatoll community",
         "link": "https://t.me/Not_Itachi_Stha"
+      },{
+        "name": "A Rive",
+        "photo": "https://raw.githubusercontent.com/NEXT-OS-HYPER-OS-MOD/server-database/refs/heads/main/database/assets/sponsors/arive.jpg",
+        "summery": "miatoll community",
+        "link": "https://t.me/Arive6"
       }
       
       
